@@ -1,0 +1,6 @@
+piquasso @ git+https://github.com/Budapest-Quantum-Computing-Group/piquasso.git@d847bb248114d92f72f70eecb587345afba10ae7
+tensorflow==2.16.1
+tqdm==4.66.2
+tyro==0.8.3
+pandas==2.2.2
+matplotlib==3.8.4
